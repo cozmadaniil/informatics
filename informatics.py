@@ -1,3 +1,6 @@
+# https://www.online-python.com
+
+
 """
 # №146
 x=int(input('введите число: '))
